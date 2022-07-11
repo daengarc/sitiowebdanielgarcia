@@ -1,0 +1,246 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.daengarc.online" resolutions="1x" timestamp="1657510729162">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="sublidany.css" crc="198253380" ref="sublidany"/>
+    <file name="index.css" crc="393853792" ref="index"/>
+    <file name="refacciones-monay.css" crc="4103290081" ref="refacciones-monay"/>
+    <file name="prodisc.css" crc="174548655" ref="prodisc"/>
+  </folder>
+  <folder name="assets">
+    <file name="total-quartz-promo.mp4" crc="278832158" seo="true" mt="1657403644000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:sublidany:refacciones-monay:prodisc"/>
+    <file name="museutils.js" crc="340535759" ref="index:sublidany:refacciones-monay:prodisc"/>
+    <file name="whatinput.js" crc="86476730" ref="index:sublidany:refacciones-monay:prodisc"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:sublidany:refacciones-monay:prodisc"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:sublidany:refacciones-monay:prodisc"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:sublidany:refacciones-monay:prodisc"/>
+    <file name="require.js" crc="7928878" ref="index:sublidany:refacciones-monay:prodisc"/>
+    <file name="webpro.js" crc="4059564322" ref="sublidany:refacciones-monay:prodisc"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="sublidany:refacciones-monay:prodisc"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="sublidany:refacciones-monay:prodisc"/>
+    <file name="touchswipe.js" crc="4075097462" ref="sublidany:refacciones-monay:prodisc"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="4177403317" ref="index"/>
+    <file name="designing-trends-u103-fr.png" crc="4216251131" ref="index"/>
+    <file name="foto-daniel-enrique--2022.jpg" crc="518048826" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="programas-_01.png" crc="49320508" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="programas-_03.png" crc="240381368" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="programas-_05.png" crc="345509500" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="programas-_06.png" crc="3914210372" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="programas-_07.png" crc="344937134" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="programas-_02.png" crc="4028641826" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="folleto-sublidani-3.jpg" crc="77320549" ref="index:sublidany">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="179244905_4081479611894874_2084250022748062791_n.jpg" crc="109737886" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whatsapp-image-2020-11-19-at-025142-1200x720.jpg" crc="4133126990" ref="index:refacciones-monay">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="captura de pantalla 2022-06-24 a la(s) 164449-u418.png" crc="4159274747" ref="index"/>
+    <file name="captura de pantalla 2022-06-24 a la(s) 164457-u429.png" crc="3769396372" ref="index"/>
+    <file name="cd-trends.jpg" crc="5799200" ref="index:prodisc">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="captura de pantalla 2022-06-24 a la(s) 164541-u488.png" crc="4152777399" ref="index"/>
+    <file name="alternativa-u503.png" crc="190154560" ref="index"/>
+    <file name="danicatura.jpg" crc="3944315009" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="580b57fcd9996e24bc43c521.png" crc="4034024054" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="captura34.jpg" crc="437026120" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="correo.png" crc="234238805" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="telefono copia.png" crc="3934371091" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="whats.png" crc="3846395032" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="galeria subidani -crop-u2966.jpg" crc="4004474056" seo="true" ref="sublidany">
+      <caption webpage="sublidany" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="sublidany:refacciones-monay:prodisc"/>
+    <file name="1-crop-u9104.jpg" crc="4041204206" seo="true" ref="sublidany">
+      <caption webpage="sublidany" alt=""/>
+    </file>
+    <file name="2-crop-u6808.jpg" crc="69307634" seo="true" ref="sublidany">
+      <caption webpage="sublidany" alt=""/>
+    </file>
+    <file name="3-crop-u6836.jpg" crc="85213206" seo="true" ref="sublidany">
+      <caption webpage="sublidany" alt=""/>
+    </file>
+    <file name="4-crop-u6864.jpg" crc="115217245" seo="true" ref="sublidany">
+      <caption webpage="sublidany" alt=""/>
+    </file>
+    <file name="5-crop-u6892.jpg" crc="186687608" seo="true" ref="sublidany">
+      <caption webpage="sublidany" alt=""/>
+    </file>
+    <file name="6-crop-u6920.jpg" crc="1877159" seo="true" ref="sublidany">
+      <caption webpage="sublidany" alt=""/>
+    </file>
+    <file name="7-crop-u6948.jpg" crc="385739096" seo="true" ref="sublidany">
+      <caption webpage="sublidany" alt=""/>
+    </file>
+    <file name="8-crop-u6976.jpg" crc="64011285" seo="true" ref="sublidany">
+      <caption webpage="sublidany" alt=""/>
+    </file>
+    <file name="9-crop-u7004.jpg" crc="165795494" seo="true" ref="sublidany">
+      <caption webpage="sublidany" alt=""/>
+    </file>
+    <file name="10-crop-u7032.jpg" crc="4157453934" seo="true" ref="sublidany">
+      <caption webpage="sublidany" alt=""/>
+    </file>
+    <file name="11-crop-u7276.jpg" crc="4048095006" seo="true" ref="sublidany">
+      <caption webpage="sublidany" alt=""/>
+    </file>
+    <file name="12-crop-u7304.jpg" crc="4292262978" seo="true" ref="sublidany">
+      <caption webpage="sublidany" alt=""/>
+    </file>
+    <file name="13-crop-u7332.jpg" crc="531069953" seo="true" ref="sublidany">
+      <caption webpage="sublidany" alt=""/>
+    </file>
+    <file name="14-crop-u7360.jpg" crc="4002201016" seo="true" ref="sublidany">
+      <caption webpage="sublidany" alt=""/>
+    </file>
+    <file name="15-crop-u7388.jpg" crc="279539616" seo="true" ref="sublidany">
+      <caption webpage="sublidany" alt=""/>
+    </file>
+    <file name="16-crop-u7416.jpg" crc="459482889" seo="true" ref="sublidany">
+      <caption webpage="sublidany" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="sublidany:refacciones-monay:prodisc"/>
+    <file name="galeria monay-crop-u7139.jpg" crc="4020425352" seo="true" ref="refacciones-monay">
+      <caption webpage="refacciones-monay" alt=""/>
+    </file>
+    <file name="1-crop-u9145.jpg" crc="3854445433" seo="true" ref="refacciones-monay">
+      <caption webpage="refacciones-monay" alt=""/>
+    </file>
+    <file name="2-crop-u7501.jpg" crc="158410010" seo="true" ref="refacciones-monay">
+      <caption webpage="refacciones-monay" alt=""/>
+    </file>
+    <file name="3-crop-u7529.jpg" crc="3988573595" seo="true" ref="refacciones-monay">
+      <caption webpage="refacciones-monay" alt=""/>
+    </file>
+    <file name="4-crop-u7557.jpg" crc="484129862" seo="true" ref="refacciones-monay">
+      <caption webpage="refacciones-monay" alt=""/>
+    </file>
+    <file name="5-crop-u7585.jpg" crc="4022470816" seo="true" ref="refacciones-monay">
+      <caption webpage="refacciones-monay" alt=""/>
+    </file>
+    <file name="6-crop-u7613.jpg" crc="321996927" seo="true" ref="refacciones-monay">
+      <caption webpage="refacciones-monay" alt=""/>
+    </file>
+    <file name="7-crop-u7641.jpg" crc="4117519130" seo="true" ref="refacciones-monay">
+      <caption webpage="refacciones-monay" alt=""/>
+    </file>
+    <file name="8-crop-u7669.jpg" crc="23073362" seo="true" ref="refacciones-monay">
+      <caption webpage="refacciones-monay" alt=""/>
+    </file>
+    <file name="9-crop-u7697.jpg" crc="3996486982" seo="true" ref="refacciones-monay">
+      <caption webpage="refacciones-monay" alt=""/>
+    </file>
+    <file name="10-crop-u7725.jpg" crc="79129254" seo="true" ref="refacciones-monay">
+      <caption webpage="refacciones-monay" alt=""/>
+    </file>
+    <file name="11-crop-u7753.jpg" crc="241529875" seo="true" ref="refacciones-monay">
+      <caption webpage="refacciones-monay" alt=""/>
+    </file>
+    <file name="12-crop-u7781.jpg" crc="210659124" seo="true" ref="refacciones-monay">
+      <caption webpage="refacciones-monay" alt=""/>
+    </file>
+    <file name="13-crop-u7809.jpg" crc="132183719" seo="true" ref="refacciones-monay">
+      <caption webpage="refacciones-monay" alt=""/>
+    </file>
+    <file name="14-crop-u7837.jpg" crc="104868901" seo="true" ref="refacciones-monay">
+      <caption webpage="refacciones-monay" alt=""/>
+    </file>
+    <file name="15-crop-u7865.jpg" crc="3857699427" seo="true" ref="refacciones-monay">
+      <caption webpage="refacciones-monay" alt=""/>
+    </file>
+    <file name="16-crop-u7893.jpg" crc="471784680" seo="true" ref="refacciones-monay">
+      <caption webpage="refacciones-monay" alt=""/>
+    </file>
+    <file name="17-crop-u7921.jpg" crc="182497021" seo="true" ref="refacciones-monay">
+      <caption webpage="refacciones-monay" alt=""/>
+    </file>
+    <file name="18-crop-u7949.jpg" crc="322523346" seo="true" ref="refacciones-monay">
+      <caption webpage="refacciones-monay" alt=""/>
+    </file>
+    <file name="19-crop-u7977.jpg" crc="4197244561" seo="true" ref="refacciones-monay">
+      <caption webpage="refacciones-monay" alt=""/>
+    </file>
+    <file name="galeria prodisc-crop-u8164.jpg" crc="53260765" seo="true" ref="prodisc">
+      <caption webpage="prodisc" alt=""/>
+    </file>
+    <file name="1-crop-u9186.jpg" crc="4263718460" seo="true" ref="prodisc">
+      <caption webpage="prodisc" alt=""/>
+    </file>
+    <file name="2-crop-u8442.jpg" crc="5788047" seo="true" ref="prodisc">
+      <caption webpage="prodisc" alt=""/>
+    </file>
+    <file name="3-crop-u8470.jpg" crc="295188988" seo="true" ref="prodisc">
+      <caption webpage="prodisc" alt=""/>
+    </file>
+    <file name="4-crop-u8498.jpg" crc="89789560" seo="true" ref="prodisc">
+      <caption webpage="prodisc" alt=""/>
+    </file>
+    <file name="5-crop-u8526.jpg" crc="72758051" seo="true" ref="prodisc">
+      <caption webpage="prodisc" alt=""/>
+    </file>
+    <file name="6-crop-u8554.jpg" crc="70823397" seo="true" ref="prodisc">
+      <caption webpage="prodisc" alt=""/>
+    </file>
+    <file name="14-crop-u8582.jpg" crc="3930286530" seo="true" ref="prodisc">
+      <caption webpage="prodisc" alt=""/>
+    </file>
+    <file name="7-crop-u8610.jpg" crc="329045544" seo="true" ref="prodisc">
+      <caption webpage="prodisc" alt=""/>
+    </file>
+    <file name="8-crop-u8638.jpg" crc="532739346" seo="true" ref="prodisc">
+      <caption webpage="prodisc" alt=""/>
+    </file>
+    <file name="9-crop-u8666.jpg" crc="4280803229" seo="true" ref="prodisc">
+      <caption webpage="prodisc" alt=""/>
+    </file>
+    <file name="10-crop-u8694.jpg" crc="4154934787" seo="true" ref="prodisc">
+      <caption webpage="prodisc" alt=""/>
+    </file>
+    <file name="11-crop-u8722.jpg" crc="312609289" seo="true" ref="prodisc">
+      <caption webpage="prodisc" alt=""/>
+    </file>
+    <file name="12-crop-u8750.jpg" crc="3906260889" seo="true" ref="prodisc">
+      <caption webpage="prodisc" alt=""/>
+    </file>
+    <file name="13-crop-u8778.jpg" crc="4280268094" seo="true" ref="prodisc">
+      <caption webpage="prodisc" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4186626569" seo="true" mt="1657510674120" redirect="true"/>
+  <file name="sublidany.html" crc="4047992660" seo="true" mt="1657489010540" redirect="true"/>
+  <file name="refacciones-monay.html" crc="177725469" seo="true" mt="1657488940705" redirect="true"/>
+  <file name="prodisc.html" crc="395918039" seo="true" mt="1657489070365" redirect="true"/>
+</manifest>
